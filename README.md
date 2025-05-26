@@ -1,5 +1,5 @@
 ## Hi there, I'm Mykhailo 👋
-I was a UI/UX designer, but one day, 5 years ago, I opened VIM and still don't know how to exit—so I’ve been a full-time developer ever since.
+Started my career as UI/UX designer, and after some 8 years transitioned to Frontend development.
 
 Currently, I’m working as a software developer at Ericsson.
 
