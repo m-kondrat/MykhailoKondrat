@@ -1,7 +1,7 @@
 ## Hi there, I'm Mykhailo 👋
-Started my career as UI/UX designer, and after some 8 years transitioned to Frontend development.
+Software developer and generally a curious person.
 
-Currently, I’m working as a software developer at Ericsson.
+<!-- Currently, I’m working as a software developer at Elastic.
 
 In my day-to-day work, I use TypeScript, React, Python, and FastAPI.
 
@@ -16,7 +16,7 @@ In my free time, I like to develop cool things with some technologies I don't ha
 ### Contact with me
 <a href="https://linkedin.com/in/mykhailo-kondrat" target="blank"><img style="margin-right: 10px;"  align="left" alt="LinkedIn" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
 <a href="mailto:mykhailo.kondrat@gmail.com" target="blank"><img style="margin-right: 10px;" align="left" alt="Dev.to" width="30" src="https://www.pngrepo.com/png/243092/512/gmail.png"/></a>
-
+-->
 
 <!--
 **MykhailoKondrat/MykhailoKondrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
